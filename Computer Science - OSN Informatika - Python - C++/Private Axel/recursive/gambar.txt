@@ -1,0 +1,15 @@
+N = 5
+* gambar(5) -> 1 bintang 5 - 4
+** gambar(4) -> 2 bintang 5 - 3
+*** gambar(3) -> 3 bintang 5 - 2
+**** gambar(2) -> 4 bintang 5 - 1
+***** gambar(1)-> 5 bintang 5 - 0
+
+Pola = pada baris ke - i ada bintang
+sebanyak i
+N = 5
+***** gambar(5)
+**** gambar(4)
+*** gambar(3)
+** gambar(2)
+* gambar(1)
