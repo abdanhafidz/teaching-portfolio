@@ -1,0 +1,17 @@
+5
+1 2 3 4 5
+14
+cangkok 1 2
+cangkok 1 3
+cangkok 3 4
+cangkok 3 5
+cangkok 1 6
+cangkok 1 7
+cangkok 6 8
+cangkok 6 9
+cangkok 7 10
+cangkok 2 11
+cangkok 2 12
+cangkok 5 13
+cangkok 5 14
+cangkok 13 15

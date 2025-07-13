@@ -1,0 +1,3 @@
+
+faiz:str = ""
+print(faiz)

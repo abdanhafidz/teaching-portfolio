@@ -1,0 +1,1003 @@
+100
+44863 782454 967351 729663 742711 264517 484338 861185 346605 574765 438745 908293 508260 863822 57063 379470 632974 254283 192732 452858 233683 836262 304224 784690 384101 301673 68256 498484 329209 985842 243829 503388 475669 707423 597883 709373 180098 178078 642109 999217 60140 754777 29468 283203 890208 327894 844739 203353 607388 366943 835924 11694 379153 243633 978743 589673 381825 411259 791226 237770 70684 657895 272608 123232 266097 213551 826591 252055 20027 496964 130872 282718 97624 334718 138869 361433 303677 644442 429847 910601 358828 343919 704550 501442 86077 205868 293515 27339 829491 994210 485686 509175 721294 980662 268566 513895 279676 407545 896754 178588
+1000
+cangkok 44863 782454
+cangkok 44863 967351
+cangkok 44863 729663
+cangkok 44863 742711
+cangkok 44863 264517
+cangkok 44863 484338
+cangkok 44863 861185
+cangkok 44863 346605
+cangkok 44863 574765
+cangkok 44863 438745
+cangkok 44863 908293
+cangkok 44863 508260
+cangkok 44863 863822
+cangkok 44863 57063
+cangkok 44863 379470
+cangkok 44863 632974
+cangkok 44863 254283
+cangkok 44863 192732
+cangkok 44863 452858
+cangkok 44863 233683
+cangkok 44863 836262
+cangkok 44863 304224
+cangkok 44863 784690
+cangkok 44863 384101
+cangkok 44863 301673
+cangkok 44863 68256
+cangkok 44863 498484
+cangkok 44863 329209
+cangkok 44863 985842
+cangkok 44863 243829
+cangkok 44863 503388
+cangkok 44863 475669
+cangkok 44863 707423
+cangkok 44863 597883
+cangkok 44863 709373
+cangkok 44863 180098
+cangkok 44863 178078
+cangkok 44863 642109
+cangkok 44863 999217
+cangkok 44863 60140
+cangkok 44863 754777
+cangkok 44863 29468
+cangkok 44863 283203
+cangkok 44863 890208
+cangkok 44863 327894
+cangkok 44863 844739
+cangkok 44863 203353
+cangkok 44863 607388
+cangkok 44863 366943
+cangkok 44863 835924
+cangkok 44863 11694
+cangkok 44863 379153
+cangkok 44863 243633
+cangkok 44863 978743
+cangkok 44863 589673
+cangkok 44863 381825
+cangkok 44863 411259
+cangkok 44863 791226
+cangkok 44863 237770
+cangkok 44863 70684
+cangkok 44863 657895
+cangkok 44863 272608
+cangkok 44863 123232
+cangkok 44863 266097
+cangkok 44863 213551
+cangkok 44863 826591
+cangkok 44863 252055
+cangkok 44863 20027
+cangkok 44863 496964
+cangkok 44863 130872
+cangkok 44863 282718
+cangkok 44863 97624
+cangkok 44863 334718
+cangkok 44863 138869
+cangkok 44863 361433
+cangkok 44863 303677
+cangkok 44863 644442
+cangkok 44863 429847
+cangkok 44863 910601
+cangkok 44863 358828
+cangkok 44863 343919
+cangkok 44863 704550
+cangkok 44863 501442
+cangkok 44863 86077
+cangkok 44863 205868
+cangkok 44863 293515
+cangkok 44863 27339
+cangkok 44863 829491
+cangkok 44863 994210
+cangkok 44863 485686
+cangkok 44863 509175
+cangkok 44863 721294
+cangkok 44863 980662
+cangkok 44863 268566
+cangkok 44863 513895
+cangkok 44863 279676
+cangkok 44863 407545
+cangkok 44863 896754
+cangkok 44863 178588
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram
+siram

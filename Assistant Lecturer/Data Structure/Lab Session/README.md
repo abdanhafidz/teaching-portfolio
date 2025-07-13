@@ -1,0 +1,2 @@
+Urutan Bahas :
+- N - Ary Tree : Bahas Representasinya dulu, kemudian Bahas DFS baru bahas bagaimana mark node di DFS dan tampilkan bagaimana merubah mark node dfs sehingga sesuai dengan traverse yang diinginkan, hanya bisa Post dan Pre Order

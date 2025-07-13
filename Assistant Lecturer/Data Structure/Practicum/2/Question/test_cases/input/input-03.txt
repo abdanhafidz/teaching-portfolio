@@ -1,0 +1,63 @@
+10
+1 2 3 4 5 6 7 8 9 10
+60
+cangkok 1 2
+cangkok 1 3
+cangkok 1 4
+cangkok 1 5
+cangkok 1 6
+cangkok 1 7
+cangkok 1 8
+cangkok 1 9
+cangkok 1 10
+cangkok 1 11
+cangkok 1 12
+cangkok 1 13
+cangkok 1 14
+cangkok 2 15
+cangkok 2 16
+cangkok 2 17
+cangkok 2 18
+cangkok 3 19
+cangkok 3 20
+cangkok 3 21
+cangkok 3 22
+cangkok 4 23
+cangkok 4 24
+cangkok 4 25
+cangkok 4 26
+cangkok 5 27
+cangkok 5 28
+cangkok 5 29
+cangkok 5 30
+cangkok 6 31
+cangkok 6 32
+cangkok 6 33
+cangkok 6 34
+cangkok 7 35
+cangkok 7 36
+cangkok 7 37
+cangkok 7 38
+cangkok 8 39
+cangkok 8 40
+cangkok 8 41
+cangkok 8 42
+cangkok 9 43
+cangkok 9 44
+cangkok 9 45
+cangkok 9 46
+potong 15
+potong 39
+potong 44
+potong 28
+potong 23
+potong 30
+potong 12
+potong 35
+potong 22
+potong 29
+siram
+siram
+siram
+siram
+siram
